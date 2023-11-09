@@ -1,0 +1,4 @@
+org.springframework.test.context.ContextCustomizerFactory = com.ecomic.\
+    ecommerce.config.TestContainersSpringContextCustomizerFactory,com.ecomic.\
+    ecommerce.config.SqlTestContainersSpringContextCustomizerFactory,com.ecomic.\
+    ecommerce.config.KafkaTestContainersSpringContextCustomizerFactory
